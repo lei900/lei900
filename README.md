@@ -21,9 +21,8 @@ Hi there, my name is Lei and I am currently learning Ruby on Rails to become a w
 
 Since I’m still a newbie, any comments and suggestions are greatly appreciated!
 
-## Latest post
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ## Quick overview
