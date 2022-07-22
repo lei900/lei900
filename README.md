@@ -23,7 +23,6 @@ Since I’m still a newbie, any comments and suggestions are greatly appreciated
 
 ## Latest post
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ## Quick overview
