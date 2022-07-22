@@ -17,6 +17,11 @@ Since I’m still a newbie, any comments and suggestions are greatly appreciated
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deviseやsorceryを使わないやり方で、パスワードリセット機能の流れを理解する](https://lei900.github.io/22/07/rails-password-reset/)
+- [Rails controllerの動きについて](https://lei900.github.io/22/07/rails-controller/)
+- [replaceWith&lpar;&rpar;とhtml&lpar;&rpar;の違い](https://lei900.github.io/22/07/replace-with-html/)
+- [No newline at end of fileエラーについて](https://lei900.github.io/22/07/no-newline-error/)
+- [RailsでのN+1問題の原因と対策](https://lei900.github.io/22/07/N-1-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
