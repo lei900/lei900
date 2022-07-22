@@ -1,21 +1,15 @@
-<div align="center">
+<div>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
-<br></div>
+<a href="http://qiita.com/lei90" ><img src="https://qiita-badge.apiapi.app/s/lei90/posts.svg" /> </a>
+<a href="https://twitter.com/maize_2" ><img src="https://img.shields.io/twitter/follow/maize_2.svg?style=social" /> </a>
+</div>
   
 ## About me
 
 こんにちは、レイと申します。中国出身です。
 
 WEBエンジニアに転職するため、Ruby on Railsをメインに勉強しています。
-
-個人ブログはこちらです-->[Lei's Notebook](lei900.github.io) 
-
-まだ初心者ですので、もしブログに何か間違いがありましたら、コメントにて教えていただければ大変ありがたいです!
 
 Hi there, my name is Lei and I am currently learning Ruby on Rails to become a web developer.
 
@@ -24,6 +18,8 @@ Since I’m still a newbie, any comments and suggestions are greatly appreciated
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://lei900.github.io/)
 
 ## Quick overview
 
