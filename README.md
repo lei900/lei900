@@ -17,11 +17,11 @@ Since I’m still a newbie, any comments and suggestions are greatly appreciated
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Capybaraで新しいwindowを指定するため、window contextを切り替える方法](https://lei900.github.io/22/08/capybara-change-context-of-window/)
 - [Missing Semester - The Shell](https://lei900.github.io/22/07/mit-missing-semester-shell/)
 - [Deviseやsorceryを使わないやり方で、パスワードリセット機能の流れを理解する](https://lei900.github.io/22/07/rails-password-reset/)
 - [Rails controllerの動きについて](https://lei900.github.io/22/07/rails-controller/)
 - [replaceWith&lpar;&rpar;とhtml&lpar;&rpar;の違い](https://lei900.github.io/22/07/replace-with-html/)
-- [No newline at end of fileエラーについて](https://lei900.github.io/22/07/no-newline-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
