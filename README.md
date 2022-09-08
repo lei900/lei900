@@ -19,9 +19,9 @@ Since I’m still a newbie, any comments and suggestions are greatly appreciated
 <!-- BLOG-POST-LIST:START -->
 - [Tailwindとsassの非互換問題の解決について](https://lei900.github.io/22/09/tailwind-sass-incompatible-error/)
 - [Javascript処理を挟むテストの場合、Capybaraを待たせる必要](https://lei900.github.io/22/09/ajax-capybara-rspec-sleep/)
+- [insert_allやupdate_allを使って、SQLクエリの発行を削減する](https://lei900.github.io/22/09/refactor-reduce-sql-query/)
 - [ActiveModelでは`text`型は指定不可のことについて](https://lei900.github.io/22/08/rails-activemodel-datatype-text/)
 - [単一テーブル継承&lpar;STI&rpar;について](https://lei900.github.io/22/08/rails-sti-single-table-inheritance/)
-- [Capybaraで新しいwindowを指定するため、window contextを切り替える方法](https://lei900.github.io/22/08/capybara-change-context-of-window/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
