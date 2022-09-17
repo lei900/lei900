@@ -17,11 +17,11 @@ Since I’m still a newbie, any comments and suggestions are greatly appreciated
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Capybaraでfontawesomeのiconリンクをテストする](https://lei900.github.io/22/09/capybara-css-icon-test/)
 - [Tailwindとsassの非互換問題の解決について](https://lei900.github.io/22/09/tailwind-sass-incompatible-error/)
 - [Javascript処理を挟むテストの場合、Capybaraを待たせる必要](https://lei900.github.io/22/09/ajax-capybara-rspec-sleep/)
 - [insert_allやupdate_allを使って、SQLクエリの発行を削減する](https://lei900.github.io/22/09/refactor-reduce-sql-query/)
 - [ActiveModelでは`text`型は指定不可のことについて](https://lei900.github.io/22/08/rails-activemodel-datatype-text/)
-- [単一テーブル継承&lpar;STI&rpar;について](https://lei900.github.io/22/08/rails-sti-single-table-inheritance/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
