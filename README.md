@@ -17,11 +17,11 @@ Since I’m still a newbie, any comments and suggestions are greatly appreciated
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Capybaraでheadless_chromeのスクリンサイズを設定する](https://lei900.github.io/22/09/capybara-chrome-screensize/)
+- [Capybaraでheadless_chromeのスクリンサイズを設定する](https://lei900.github.io/22/09/capybara-chrome-screen-size/)
+- [RSpecでdeliver_laterのメールをテストする方法](https://lei900.github.io/22/09/rspec-mailer-test-deliver-later/)
 - [Capybaraでfontawesomeのiconリンクをテストする](https://lei900.github.io/22/09/capybara-css-icon-test/)
 - [Tailwindとsassの非互換問題の解決について](https://lei900.github.io/22/09/tailwind-sass-incompatible-error/)
 - [Javascript処理を挟むテストの場合、Capybaraを待たせる必要](https://lei900.github.io/22/09/ajax-capybara-rspec-sleep/)
-- [insert_allやupdate_allを使って、SQLクエリの発行を削減する](https://lei900.github.io/22/09/refactor-reduce-sql-query/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
