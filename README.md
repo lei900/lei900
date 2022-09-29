@@ -17,11 +17,11 @@ Since I’m still a newbie, any comments and suggestions are greatly appreciated
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [モダンJavaScriptの簡単まとめ](https://lei900.github.io/22/09/modern-javascript-cheetsheet/)
 - [Readable Codeメモ：コードをリファクタリングする](https://lei900.github.io/22/09/readable-code-refatoring/)
 - [Readable Codeメモ：ループとロジックの単純化](https://lei900.github.io/22/09/readable-code-roop-logic/)
 - [Readable Codeメモ：コメントの書き方](https://lei900.github.io/22/09/readable-code-right-comment/)
 - [Readable Codeメモ：コードの見た目を美しくする](https://lei900.github.io/22/09/readable-code-clean-layout/)
-- [Readable Codeメモ：メソッド名や変数名を正しく選ぶ](https://lei900.github.io/22/09/readable-code-choose-names/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
