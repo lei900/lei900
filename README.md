@@ -18,11 +18,7 @@ Since I’m still a newbie, any comments and suggestions are greatly appreciated
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Chromeが第三者アプリからのリンクを開けない状況について](https://lei900.github.io/22/10/chrome-external-link-open/)
-- [VSCodeでReact JSX内のhtmlタグを自動補完する](https://lei900.github.io/22/09/vscode-react-html-autocomplete/)
-- [ReactのためのJavaScript簡単まとめ](https://lei900.github.io/22/09/modern-javascript-cheetsheet/)
-- [Readable Codeメモ：コードをリファクタリングする](https://lei900.github.io/22/09/readable-code-refatoring/)
-- [Readable Codeメモ：ループとロジックの単純化](https://lei900.github.io/22/09/readable-code-roop-logic/)
+- [Rubyバージョンが切り替わらない? rbenvがバージョンを決める順番について](https://qiita.com/lei90/items/3465b177632416cca1fe)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
