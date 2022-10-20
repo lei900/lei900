@@ -18,11 +18,11 @@ Since I’m still a newbie, any comments and suggestions are greatly appreciated
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RailsのDelegated Typesで複数モデルを扱うフィード機能を作る](https://lei900.github.io/22/10/rails-delegated-types-polymorphic/)
 - [Chromeが第三者アプリからのリンクを開けない状況について](https://lei900.github.io/22/10/chrome-external-link-open/)
 - [VSCodeでReact JSX内のhtmlタグを自動補完する](https://lei900.github.io/22/09/vscode-react-html-autocomplete/)
 - [ReactのためのJavaScript簡単まとめ](https://lei900.github.io/22/09/modern-javascript-cheetsheet/)
 - [Readable Codeメモ：コードをリファクタリングする](https://lei900.github.io/22/09/readable-code-refatoring/)
-- [Readable Codeメモ：ループとロジックの単純化](https://lei900.github.io/22/09/readable-code-roop-logic/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
