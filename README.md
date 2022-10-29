@@ -8,13 +8,15 @@
   
 ## About me
 
-こんにちは、レイと申します。中国出身です。
+こんにちは、レイと申します。
 
-WEBエンジニアに転職するため、Ruby on Railsをメインに勉強しています。
+WEB エンジニアに転職するため、Ruby on Rails | React | Next.js を勉強しています。
 
-Hi there, my name is Lei and I am currently learning Ruby on Rails to become a web developer.
+Hi, my name is Lei.
 
-Since I’m still a newbie, any comments and suggestions are greatly appreciated!
+I am currently learning Ruby on Rails | React | Next.js to become a web developer.
+
+Any comments and suggestions are greatly appreciated!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
