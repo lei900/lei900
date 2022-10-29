@@ -18,11 +18,11 @@ Since I’m still a newbie, any comments and suggestions are greatly appreciated
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reactの条件付きレンダーで`&amp;&amp;`演算子使う時の注意点](https://lei900.github.io/22/10/react-conditional-rendering/)
 - [Rails 7 でReactを使う方法まとめ](https://lei900.github.io/22/10/rails-7-api-reactjs/)
 - [RailsのDelegated Typesで複数モデルを扱うフィード機能を作る](https://lei900.github.io/22/10/rails-delegated-types-polymorphic/)
 - [Chromeが第三者アプリからのリンクを開けない状況について](https://lei900.github.io/22/10/chrome-external-link-open/)
 - [VSCodeでReact JSX内のhtmlタグを自動補完する](https://lei900.github.io/22/09/vscode-react-html-autocomplete/)
-- [ReactのためのJavaScript簡単まとめ](https://lei900.github.io/22/09/modern-javascript-cheetsheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
