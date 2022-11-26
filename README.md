@@ -10,7 +10,7 @@
 
 こんにちは、レイと申します。
 
-WEB エンジニアに転職するため、Ruby on Rails | React | Next.js を勉強しています。
+WEB エンジニアに転職するため、Ruby on Rails | React | Next.js | Typescriptを勉強しています。
 
 Hi, my name is Lei.
 
