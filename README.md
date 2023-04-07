@@ -8,13 +8,13 @@
   
 ## About me
 
-こんにちは、レイと申します。
+こんにちは、新人 WEB エンジニアのレイとです。
 
-WEB エンジニアに転職するため、Ruby on Rails | React | Next.js | Typescriptを勉強しています。
+React | Next.js | Express.js | Ruby on Railsについてブログを書いたりしています。
 
-Hi, my name is Lei.
+Hi, my name is Lei. A junior web engineer.
 
-I am currently learning Ruby on Rails | React | Next.js to become a web developer.
+I am learning and writing blogs about React | Next.js | Express.js | Ruby on Rails.
 
 Any comments and suggestions are greatly appreciated!
 
