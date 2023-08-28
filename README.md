@@ -20,11 +20,11 @@ Any comments and suggestions are greatly appreciated!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [今日の反省: 本番反映前に絶対DBをバックアップしておくこと](https://lei900.github.io/23/08/production-deploy-mistake/)
 - [unable to access gitlab:  SSL certificate problem: certificate is not yet valid](https://qiita.com/lei90/items/1d226a2f0e990db68bb6)
 - [JavaScriptフレームワークの過去、現在と未来](https://lei900.github.io/23/02/future-of-javascript-framework/)
 - [【初心者向け】Next.js + Rails APIで認証付きCRUDアプリ作って学んだこと](https://qiita.com/lei90/items/067421b5290734b3a634)
 - [Railsのリクエストライフサイクルのについて](https://lei900.github.io/22/11/rails-controller-instance-variable-lifecycle/)
-- [Next.js編 - Rails + Next.js + Firebase V9 Authentication で認証付きのCRUDアプリを作る](https://lei900.github.io/22/11/nextjs-firebase-auth/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
