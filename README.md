@@ -20,11 +20,11 @@ Any comments and suggestions are greatly appreciated!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [AuthenticationFailed: SCRAM authentication failed, storedKey mismatch](https://qiita.com/lei90/items/623bcf0c989584a7c33a)
 - [Clean Agile 感想: アジャイルは速く進むことではない](https://lei900.github.io/24/02/clean-agile-reading-note/)
-- [Window 11 virtualboxでmongoDBが起動できない: mongod.service: Failed with result &#39;core-dump&#39;.](https://qiita.com/lei90/items/21421a5482d16cd393ee)
 - [今日の反省: 本番反映前に絶対DBをバックアップしておくこと](https://lei900.github.io/23/08/production-deploy-mistake/)
-- [SSL certificate problem: certificate is not yet valid](https://qiita.com/lei90/items/1d226a2f0e990db68bb6)
+- [JavaScriptフレームワークの過去、現在と未来](https://lei900.github.io/23/02/future-of-javascript-framework/)
+- [Railsのリクエストライフサイクルのについて](https://lei900.github.io/22/11/rails-controller-instance-variable-lifecycle/)
+- [Next.js編 - Rails + Next.js + Firebase V9 Authentication で認証付きのCRUDアプリを作る](https://lei900.github.io/22/11/nextjs-firebase-auth/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
