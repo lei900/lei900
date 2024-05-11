@@ -8,13 +8,13 @@
   
 ## About me
 
-こんにちは、新人 WEB エンジニアのレイとです。
+こんにちは、ソフトウェアエンジニアのレイです。
 
-React | Next.js | Express.js | Ruby on Railsについてブログを書いたりしています。
+TypeScript | MongoDB | Ruby on Railsなどについてブログを書いたりしています。
 
-Hi, my name is Lei. A junior web engineer.
+Hi, my name is Lei. A junior software engineer.
 
-I am learning and writing blogs about React | Next.js | Express.js | Ruby on Rails.
+My blog is mainly about TypeScript | MongoDB | Ruby on Rails and other notes about programming.
 
 Any comments and suggestions are greatly appreciated!
 
