@@ -20,11 +20,11 @@ Any comments and suggestions are greatly appreciated!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Node.jsでのモジュールインポートと環境変数の取り扱いに関して](https://qiita.com/lei90/items/d77f8f87093e2148adbe)
 - [『Team Geek』読書メモ: ソフトウエア開発はチームスポーツである](https://lei900.github.io/24/05/team-geek/)
 - [MongoDBのreplica setに新しいsecondary nodeを追加する手順](https://lei900.github.io/24/04/secondary-mongodb-setup/)
 - [AuthenticationFailed: SCRAM authentication failed, storedKey mismatch](https://qiita.com/lei90/items/623bcf0c989584a7c33a)
 - [Clean Agile 感想: アジャイルは速く進むことではない](https://lei900.github.io/24/02/clean-agile-reading-note/)
-- [Window 11 virtualboxでmongoDBが起動できない: mongod.service: Failed with result &#39;core-dump&#39;.](https://qiita.com/lei90/items/21421a5482d16cd393ee)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
