@@ -20,11 +20,11 @@ Any comments and suggestions are greatly appreciated!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ドメイン駆動設計についての理解まとめ：用語より、基本思想を掴もう](https://qiita.com/lei90/items/4b7e6a019be839e1fd8d)
 - [ドメイン駆動設計についての理解](https://lei900.github.io/24/05/domain-driven-design-fundamental/)
 - [Node.jsでのモジュールインポートと環境変数の取り扱いに関して](https://qiita.com/lei90/items/d77f8f87093e2148adbe)
 - [『Team Geek』読書メモ: ソフトウエア開発はチームスポーツである](https://lei900.github.io/24/05/team-geek/)
 - [MongoDBのreplica setに新しいsecondary nodeを追加する手順](https://lei900.github.io/24/04/secondary-mongodb-setup/)
-- [AuthenticationFailed: SCRAM authentication failed, storedKey mismatch](https://qiita.com/lei90/items/623bcf0c989584a7c33a)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
