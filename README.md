@@ -25,7 +25,7 @@ Any comments and suggestions are greatly appreciated!
 - [TypeScriptによるDependency Injection入門：DIコンテナを自作して内部構造を理解する](https://zenn.dev/spacemarket/articles/8ddba858aa09c2)
 - [『世界一流エンジニアの思考法』読書メモ: 仕事は楽しむもの](https://lei900.github.io/24/08/world-class-engieer/)
 - [&quot;drain&quot; event を使ってメモリリークを防ぐ](https://lei900.github.io/24/08/js-dl-memory-leak/)
-- [ドメイン駆動設計についての理解まとめ：用語より、基本思想を掴もう](https://qiita.com/lei90/items/4b7e6a019be839e1fd8d)
+- [ドメイン駆動設計についての理解](https://lei900.github.io/24/05/domain-driven-design-fundamental/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
