@@ -21,7 +21,7 @@ Any comments and suggestions are greatly appreciated!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [「全員エンジニア」時代にどう向き合うか──AI研究者 Andrej Karpathy が語る、AI開発の現在地と未来図](https://zenn.dev/spacemarket/articles/b0dfce7957f13a)
+- [“LLM = OS”時代が来る？──ChatGPTの裏側は次世代OSなのか、Karpathyが最新講演で語るAI開発の未来](https://zenn.dev/spacemarket/articles/b0dfce7957f13a)
 - [AI初心者がDeepSeekの論文を読んで感動した話（解説付き）](https://zenn.dev/spacemarket/articles/5143742a78e889)
 - [MySQLクエリ最適化入門：オプティマイザの仕組みを理解しクエリチューニングを実践](https://zenn.dev/spacemarket/articles/51e20b3eed761a)
 - [TypeScriptによるDependency Injection入門：DIコンテナを自作して内部構造を理解する](https://zenn.dev/spacemarket/articles/8ddba858aa09c2)
