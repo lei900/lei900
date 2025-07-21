@@ -21,7 +21,7 @@ Any comments and suggestions are greatly appreciated!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [AI時代でもエンジニアは終わらない、ただSoftware 3.0で再定義される](https://zenn.dev/spacemarket/articles/b0dfce7957f13a)
+- [AIの今とこれからから考える、エンジニアが動くべきチャンス](https://zenn.dev/spacemarket/articles/b0dfce7957f13a)
 - [AI初心者がDeepSeekの論文を読んで感動した話（解説付き）](https://zenn.dev/spacemarket/articles/5143742a78e889)
 - [MySQLクエリ最適化入門：オプティマイザの仕組みを理解しクエリチューニングを実践](https://zenn.dev/spacemarket/articles/51e20b3eed761a)
 - [TypeScriptによるDependency Injection入門：DIコンテナを自作して内部構造を理解する](https://zenn.dev/spacemarket/articles/8ddba858aa09c2)
