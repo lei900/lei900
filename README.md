@@ -21,11 +21,11 @@ Any comments and suggestions are greatly appreciated!
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [「設計できないエンジニアは淘汰される？」AI時代に求められる新スキルとは](https://zenn.dev/spacemarket/articles/b0dfce7957f13a)
+- [AI初心者がDeepSeekの論文を読んで感動した話（解説付き）](https://zenn.dev/spacemarket/articles/5143742a78e889)
+- [MySQLクエリ最適化入門：オプティマイザの仕組みを理解しクエリチューニングを実践](https://zenn.dev/spacemarket/articles/51e20b3eed761a)
+- [TypeScriptによるDependency Injection入門：DIコンテナを自作して内部構造を理解する](https://zenn.dev/spacemarket/articles/8ddba858aa09c2)
 - [『世界一流エンジニアの思考法』読書メモ: 仕事は楽しむもの](https://lei900.github.io/24/08/world-class-engieer/)
-- [&quot;drain&quot; event を使ってメモリリークを防ぐ](https://lei900.github.io/24/08/js-dl-memory-leak/)
-- [ドメイン駆動設計についての理解まとめ：用語より、基本思想を掴もう](https://qiita.com/lei90/items/4b7e6a019be839e1fd8d)
-- [ドメイン駆動設計についての理解](https://lei900.github.io/24/05/domain-driven-design-fundamental/)
-- [Node.jsでのモジュールインポートと環境変数の取り扱いに関して](https://qiita.com/lei90/items/d77f8f87093e2148adbe)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lei900.github.io/)
